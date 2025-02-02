@@ -1,4 +1,4 @@
- ArcTech React App - Internship Task
+## ArcTech React App - Internship Task
 
 ## Introduction
 
